@@ -1,0 +1,12 @@
+C:\Users\HP\Desktop\C# Projects\DAL first\Ado.net-EF\Ado.net-EF-DTO\bin\Debug\Ado.net-EF-DTO.dll
+C:\Users\HP\Desktop\C# Projects\DAL first\Ado.net-EF\Ado.net-EF-DTO\bin\Debug\Ado.net-EF-DTO.pdb
+C:\Users\HP\Desktop\C# Projects\DAL first\Ado.net-EF\Ado.net-EF-DTO\obj\Debug\Ado.net-EF-DTO.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\C# Projects\DAL first\Ado.net-EF\Ado.net-EF-DTO\obj\Debug\Ado.net-EF-DTO.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\C# Projects\DAL first\Ado.net-EF\Ado.net-EF-DTO\obj\Debug\Ado.net-EF-DTO.dll
+C:\Users\HP\Desktop\C# Projects\DAL first\Ado.net-EF\Ado.net-EF-DTO\obj\Debug\Ado.net-EF-DTO.pdb
+C:\Users\HP\Desktop\C# Projects\ADO.Net\Ado.net-EF\Ado.net-EF-DTO\bin\Debug\Ado.net-EF-DTO.dll
+C:\Users\HP\Desktop\C# Projects\ADO.Net\Ado.net-EF\Ado.net-EF-DTO\bin\Debug\Ado.net-EF-DTO.pdb
+C:\Users\HP\Desktop\C# Projects\ADO.Net\Ado.net-EF\Ado.net-EF-DTO\obj\Debug\Ado.net-EF-DTO.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\C# Projects\ADO.Net\Ado.net-EF\Ado.net-EF-DTO\obj\Debug\Ado.net-EF-DTO.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\C# Projects\ADO.Net\Ado.net-EF\Ado.net-EF-DTO\obj\Debug\Ado.net-EF-DTO.dll
+C:\Users\HP\Desktop\C# Projects\ADO.Net\Ado.net-EF\Ado.net-EF-DTO\obj\Debug\Ado.net-EF-DTO.pdb

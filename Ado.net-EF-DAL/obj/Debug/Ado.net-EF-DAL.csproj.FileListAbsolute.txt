@@ -1,0 +1,42 @@
+C:\Users\HP\Desktop\C# Projects\DAL first\Ado.net-EF\Ado.net-EF-DAL\bin\Debug\Ado.net-EF-DAL.dll.config
+C:\Users\HP\Desktop\C# Projects\DAL first\Ado.net-EF\Ado.net-EF-DAL\bin\Debug\Ado.net-EF-DAL.dll
+C:\Users\HP\Desktop\C# Projects\DAL first\Ado.net-EF\Ado.net-EF-DAL\bin\Debug\Ado.net-EF-DAL.pdb
+C:\Users\HP\Desktop\C# Projects\DAL first\Ado.net-EF\Ado.net-EF-DAL\bin\Debug\EntityFramework.dll
+C:\Users\HP\Desktop\C# Projects\DAL first\Ado.net-EF\Ado.net-EF-DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\HP\Desktop\C# Projects\DAL first\Ado.net-EF\Ado.net-EF-DAL\bin\Debug\EntityFramework.xml
+C:\Users\HP\Desktop\C# Projects\DAL first\Ado.net-EF\Ado.net-EF-DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\HP\Desktop\C# Projects\DAL first\Ado.net-EF\Ado.net-EF-DAL\obj\Debug\Ado.net-EF-DAL.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\C# Projects\DAL first\Ado.net-EF\Ado.net-EF-DAL\obj\Debug\Ado.net-EF-DAL.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\C# Projects\DAL first\Ado.net-EF\Ado.net-EF-DAL\obj\Debug\Ado.net-EF-DAL.csproj.CopyComplete
+C:\Users\HP\Desktop\C# Projects\DAL first\Ado.net-EF\Ado.net-EF-DAL\obj\Debug\Ado.net-EF-DAL.dll
+C:\Users\HP\Desktop\C# Projects\DAL first\Ado.net-EF\Ado.net-EF-DAL\obj\Debug\Ado.net-EF-DAL.pdb
+C:\Users\HP\Desktop\C# Projects\DAL first\Ado.net-EF\Ado.net-EF-DAL\bin\Debug\Ado.net-EF-DTO.dll
+C:\Users\HP\Desktop\C# Projects\DAL first\Ado.net-EF\Ado.net-EF-DAL\bin\Debug\Ado.net-EF-DTO.pdb
+C:\Users\HP\Desktop\C# Projects\ADO.Net\Ado.net-EF\Ado.net-EF-DAL\bin\Debug\Ado.net-EF-DAL.dll.config
+C:\Users\HP\Desktop\C# Projects\ADO.Net\Ado.net-EF\Ado.net-EF-DAL\bin\Debug\Ado.net-EF-DAL.dll
+C:\Users\HP\Desktop\C# Projects\ADO.Net\Ado.net-EF\Ado.net-EF-DAL\bin\Debug\Ado.net-EF-DAL.pdb
+C:\Users\HP\Desktop\C# Projects\ADO.Net\Ado.net-EF\Ado.net-EF-DAL\bin\Debug\Ado.net-EF-DTO.dll
+C:\Users\HP\Desktop\C# Projects\ADO.Net\Ado.net-EF\Ado.net-EF-DAL\bin\Debug\EntityFramework.dll
+C:\Users\HP\Desktop\C# Projects\ADO.Net\Ado.net-EF\Ado.net-EF-DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\HP\Desktop\C# Projects\ADO.Net\Ado.net-EF\Ado.net-EF-DAL\bin\Debug\Ado.net-EF-DTO.pdb
+C:\Users\HP\Desktop\C# Projects\ADO.Net\Ado.net-EF\Ado.net-EF-DAL\bin\Debug\EntityFramework.xml
+C:\Users\HP\Desktop\C# Projects\ADO.Net\Ado.net-EF\Ado.net-EF-DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\HP\Desktop\C# Projects\ADO.Net\Ado.net-EF\Ado.net-EF-DAL\obj\Debug\Ado.net-EF-DAL.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\C# Projects\ADO.Net\Ado.net-EF\Ado.net-EF-DAL\obj\Debug\Ado.net-EF-DAL.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\C# Projects\ADO.Net\Ado.net-EF\Ado.net-EF-DAL\obj\Debug\Ado.net-EF-DAL.csproj.CopyComplete
+C:\Users\HP\Desktop\C# Projects\ADO.Net\Ado.net-EF\Ado.net-EF-DAL\obj\Debug\Ado.net-EF-DAL.dll
+C:\Users\HP\Desktop\C# Projects\ADO.Net\Ado.net-EF\Ado.net-EF-DAL\obj\Debug\Ado.net-EF-DAL.pdb
+C:\Users\mayan\Desktop\Abc\Ado.Net-WebAPI-Activity2\Ado.net-EF-DAL\bin\Debug\Ado.net-EF-DAL.dll.config
+C:\Users\mayan\Desktop\Abc\Ado.Net-WebAPI-Activity2\Ado.net-EF-DAL\bin\Debug\Ado.net-EF-DAL.dll
+C:\Users\mayan\Desktop\Abc\Ado.Net-WebAPI-Activity2\Ado.net-EF-DAL\bin\Debug\Ado.net-EF-DAL.pdb
+C:\Users\mayan\Desktop\Abc\Ado.Net-WebAPI-Activity2\Ado.net-EF-DAL\bin\Debug\Ado.net-EF-DTO.dll
+C:\Users\mayan\Desktop\Abc\Ado.Net-WebAPI-Activity2\Ado.net-EF-DAL\bin\Debug\EntityFramework.dll
+C:\Users\mayan\Desktop\Abc\Ado.Net-WebAPI-Activity2\Ado.net-EF-DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\mayan\Desktop\Abc\Ado.Net-WebAPI-Activity2\Ado.net-EF-DAL\bin\Debug\Ado.net-EF-DTO.pdb
+C:\Users\mayan\Desktop\Abc\Ado.Net-WebAPI-Activity2\Ado.net-EF-DAL\bin\Debug\EntityFramework.xml
+C:\Users\mayan\Desktop\Abc\Ado.Net-WebAPI-Activity2\Ado.net-EF-DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\mayan\Desktop\Abc\Ado.Net-WebAPI-Activity2\Ado.net-EF-DAL\obj\Debug\Ado.net-EF-DAL.csproj.AssemblyReference.cache
+C:\Users\mayan\Desktop\Abc\Ado.Net-WebAPI-Activity2\Ado.net-EF-DAL\obj\Debug\Ado.net-EF-DAL.csproj.CoreCompileInputs.cache
+C:\Users\mayan\Desktop\Abc\Ado.Net-WebAPI-Activity2\Ado.net-EF-DAL\obj\Debug\Ado.net-EF-DAL.csproj.CopyComplete
+C:\Users\mayan\Desktop\Abc\Ado.Net-WebAPI-Activity2\Ado.net-EF-DAL\obj\Debug\Ado.net-EF-DAL.dll
+C:\Users\mayan\Desktop\Abc\Ado.Net-WebAPI-Activity2\Ado.net-EF-DAL\obj\Debug\Ado.net-EF-DAL.pdb
